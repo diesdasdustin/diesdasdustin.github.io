@@ -1,1 +1,1 @@
-<a href="https://github.com/diesdasdustin/diesdasdustin.github.io/blob/main/R%C3%B6ntgendiagnostik__Anwendungen__Risiken_und_Zukunftsperspektiven_Bichler-1.pdf" target="_blank">PDF</a>
+<a href="https://github.com/diesdasdustin/diesdasdustin.github.io/blob/main/R%C3%B6ntgendiagnostik__Anwendungen__Risiken_und_Zukunftsperspektiven_Bichler-2.pdf" target="_blank">PDF</a>
